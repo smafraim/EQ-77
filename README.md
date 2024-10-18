@@ -76,8 +76,15 @@ We evaluated the models using:
 - **SVR and Random Forest Regressor** offered decent performance, making them useful alternatives to linear models.
 
 ---
+### 7. Video
 
-### 7. How to Run the Project
+
+https://github.com/user-attachments/assets/87c19438-18fb-484f-a1ed-f644643893cf
+
+
+
+---
+### 8. How to Run the Project
 
 1. **Clone the repository:**
    ```bash
